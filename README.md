@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/zul4j8A.png](https://mc.reedroux.biz/media/favicon.png" />
+<img src="https://mc.reedroux.biz/media/favicon.png" />
   </p>
 
 <h1 align="center"> 👋 Hey! Hey! We are Reedroux Minceraft.</h1>
